@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    margin-right: 75%;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+h2{
+    /* margin-left: 30%; */
+    text-align: center;
+}
+
+.w30{
+    width:30%;
+    text-align:center;
+    border-radius: 4px;
+}
+.w100{
+    width:90%;
+    text-align:center;
+    
+    border-radius: 4px;
+}
+
+#c1{
+    border: 1px solid black;
+}
+#c2{
+    border: 1px solid black;
+}
+#c3{
+    border: 1px solid black;
+}
+
+#char{
+    color: red;
+    /* margin-left: 36.5%; */
+    text-align: center;
+}
